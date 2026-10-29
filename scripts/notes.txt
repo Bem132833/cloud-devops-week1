@@ -1,0 +1,3 @@
+Week 1 Linux Hands-on Lab
+Learning Linux commands for Cloud and DevOps
+Practicing file management, searching, and process identification
